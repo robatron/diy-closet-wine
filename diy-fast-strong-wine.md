@@ -1,6 +1,6 @@
 # DIY Fast Strong Pomegranate Wine
 
-Recipe for simple homemade wine made from off-the-shelf juice and a special strain of yeast that makes wine relatively fast, ~1 week vs ~4-6 weeks, and relatively strong, ~15% (or higher with tweaks). I had success with Pomegranate juice, but you could substitute any type of not-too-acidic juice as long as you adjust the calculations linearly.
+Recipe for simple homemade wine made from off-the-shelf juice and a special strain of yeast that makes wine relatively fast, ~1 week vs ~4-6 weeks, and relatively strong, ~15% (or higher with tweaks). I had success with Pomegranate juice, but you could substitute any type of not-too-acidic juice as long as you adjust the calculations linearly. (See notes.)
 
 <img src="./img/superyeast.jpg" height="200px"/>
 <img src="./img/tj-pome-juice.jpg" height="200px"/>
