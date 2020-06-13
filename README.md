@@ -1,1 +1,3 @@
-# diy-closet-wine
+# DIY Closet Wine
+
+This is a repository of recipes and notes about my "closet wine", homemade wine made from juice. COVID-19 lockdown breeds strange hobbies...
